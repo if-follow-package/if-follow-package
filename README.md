@@ -197,10 +197,10 @@ result1.then((result) => {
 });
 
 // Test case: user is not a follower
-const result2 = followController.isFollower('diff-ymd-package');
+const result2 = followController.isFollower('if-follow-package');
 
 result2.then((result) => {
-  console.log(result);  // Output: "No, diff-ymd-package does not follow you!"
+  console.log(result);  // Output: "No, if-follow-package does not follow you!"
 });
 
 ```
@@ -256,7 +256,7 @@ result6.then((result) => {
 const result7 = followController.whoNotFollowingBack();
 
 result7.then((result) => {
-  console.log(result); // Output: ["diff-ymd-package", "Open-Sourced-Org", "username4", "usernameN"]
+  console.log(result); // Output: ["if-follow-package", "Open-Sourced-Org", "username4", "usernameN"]
 }); 
 
 ```
@@ -285,10 +285,10 @@ result9.then((result) => {
 });  
 
 // Test case: user is not following back
-const result10 = followController.isFollowingBack('diff-ymd-package');
+const result10 = followController.isFollowingBack('if-follow-package');
 
 result10.then((result) => {
-  console.log(result); // Output: "No, diff-ymd-package does not following back!"
+  console.log(result); // Output: "No, if-follow-package does not following back!"
 }); 
 
 ```
@@ -298,8 +298,8 @@ result10.then((result) => {
 ```javascript
 
 // Test case: unfollow a user who is not following back
-const result11 = followController.unfollowNotFollowingBack('diff-ymd-package');
-                 //Console Output: "Unfollowed: diff-ymd-package"
+const result11 = followController.unfollowNotFollowingBack('if-follow-package');
+                 //Console Output: "Unfollowed: if-follow-package"
 
 // not needed to console, because internally log message, just only call
 result11.then((result) => {
@@ -522,6 +522,12 @@ History
 For more details about what has changed in each version of this project.  
 
 [See CHANGELOG](https://github.com/farhan7reza7/if-follow-package/blob/main/CHANGELOG.md)
+
+## External Links
+
+[See if-follow-package live doc](https://if-follow-package.github.io/if-follow-package/)
+  
+[See if-follow-package wiki](https://github.com/farhan7reza7/if-follow-package/wiki)
 
 [npm-image]: https://img.shields.io/npm/v/if-follow-package
 [npm-url]: https://www.npmjs.com/package/if-follow-package
