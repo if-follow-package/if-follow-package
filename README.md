@@ -24,6 +24,7 @@ if-follow-package
 [![npm-build-published][npm-ci-image]][npm-ci-url]
 [![github-build-published][github-image]][github-url]
 [![CI][ci-image]][ci-url]
+[![Codecov-report][codecov-img]][codecov-url]
 [![License][license-image]][licence-url]
 [![LinkedIn][linked-image]][linked-url]
 
@@ -67,7 +68,7 @@ npm install @farhan7reza7/if-follow-package
 **Can include in page `using script tag` from CDN**
 
 ```html
-    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.28.0/dist/axios.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/if-follow-package@3.0.0/lib/index.min.js"></script>
 ```
 
@@ -89,7 +90,7 @@ const ifFollow = require('if-follow-package'); // can use any if authenticated
 **Can include in html page `using script tag` from `CDN`**
 
 ```html
-    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.28.0/dist/axios.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/if-follow-package@3.0.0/lib/index.min.js"></script>
 ```
 
@@ -541,3 +542,5 @@ For more details about what has changed in each version of this project.
 [licence-url]: https://opensource.org/licenses/MIT
 [linked-image]: https://img.shields.io/badge/LinkedIn-FarhanReza-blue
 [linked-url]: https://www.linkedin.com/in/farhan7reza7/
+[codecov-img]: https://codecov.io/gh/farhan7reza7/if-follow-package/graph/badge.svg?token=EGJBGFE9YR
+[codecov-url]: https://codecov.io/gh/farhan7reza7/if-follow-package
