@@ -119,6 +119,7 @@ const followController = ifFollow(yourUsername, yourToken);
 - ##### Get a list of users who are not following you back
   
 ```javascript
+
 const notFollowingBackList = followController.whoNotFollowingBack();
 
 ```
@@ -127,6 +128,7 @@ const notFollowingBackList = followController.whoNotFollowingBack();
 - ##### Get a list of users who are following you back
 
 ```javascript
+
 const followingBackList = followController.whoFollowingBack();
 
 ```
@@ -135,6 +137,7 @@ const followingBackList = followController.whoFollowingBack();
 - ##### Check if a specific user is following you back
 
 ```javascript
+
 const isFollowingBackMessage = followController.isFollowingBack('username');
 
 ```
@@ -142,6 +145,7 @@ const isFollowingBackMessage = followController.isFollowingBack('username');
 - ##### Unfollow a user who is not following you back
 
 ```javascript
+
 followController.unfollowNotFollowingBack('username');
 
 ```
@@ -150,6 +154,7 @@ followController.unfollowNotFollowingBack('username');
 - ##### Unfollow all users who are not following you back
 
 ```javascript
+
 followController.unfollowAllNotFollowingBack();
 
 ```
@@ -158,6 +163,7 @@ followController.unfollowAllNotFollowingBack();
 - ##### Check if a user is following you
 
 ```javascript
+
 const isFollowerMessage = followController.isFollower('username');
 
 ```
@@ -166,6 +172,7 @@ const isFollowerMessage = followController.isFollower('username');
 - ##### Check if you are following a user
 
 ```javascript
+
 const isFollowingMessage = followController.isFollowing('username');
 
 ```
@@ -174,16 +181,17 @@ const isFollowingMessage = followController.isFollowing('username');
 - ##### Get the total number of followers
 
 ```javascript
+
 const totalFollowersMessage = followController.totalFollowers();
 
 ```
 
 
 - ##### Get the total number of followings
-
+  
 ```javascript
-const totalFollowingsMessage = followController.totalFollowings();
 
+const totalFollowingsMessage = followController.totalFollowings();
 ```
 
 **Get `Built in  codes` `for using` if-follow-package `any Method` on `created instance(followController)`**
