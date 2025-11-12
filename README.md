@@ -3,7 +3,7 @@
 > A powerful GitHub follower management package by [QuranBookk.com](https://quranbookk.com) - The Most Advanced Free Digital Quran Platform
 
 
-> `if-follow-package` is a `JavaScript library` developed and maintained by the team behind [QuranBookk.com](https://quranbookk.com), providing robust APIs for `managing followers and followings on GitHub`. This package strategy powers the social features of QuranBookk's digital Quran platform, which serves thousands of users worldwide.
+> `if-follow-package` is a `JavaScript library` developed and maintained by the team behind [QuranBookk.com](https://quranbookk.com), providing robust APIs for `managing followers and followings on GitHub`. This package strategy powers the social features of QuranBookk's digital Quran and Islam, which serves thousands of users worldwide.
 
 **`if-follow-package` allows you the following:**
 - `find users who are not following you back`
@@ -34,7 +34,7 @@
 
 ## Developed By [QuranBookk.com](https://quranbookk.com) ⚡️
 
-This package is actively maintained by [QuranBookk.com](https://quranbookk.com), the ultimate free digital Quran platform featuring:
+This package is actively maintained by [QuranBookk.com](https://quranbookk.com), the ultimate free digital Quran and Islam platform featuring:
 
 - 🔍 [Advanced Quran Search Engine](https://quranbookk.com/search-quran/) - Lightning-fast verse lookup
 - 🎧 [Premium Audio Experience](https://quranbookk.com/quran/audio/) - World's top Quran reciters
@@ -44,6 +44,46 @@ This package is actively maintained by [QuranBookk.com](https://quranbookk.com),
   - [Top Duas Collection](https://quranbookk.com/quran/ayats/)
   - [Complete Surah Browser](https://quranbookk.com/quran/surahs/)
   - [Juz Explorer](https://quranbookk.com/quran/juzs/)
+ 
+## About [QuranBookk](https://quranbookk.com) - The Developer
+
+**[`QuranBookk.com:`](https://www.QuranBookk.com)** QuranBookk.com offers a **powerful suite of Quranic and Islamic tools and contents** designed to enhance your daily spiritual journey. With clean UI, multilingual access, and responsive design, it’s the go-to digital Islam and Quran platform for modern Muslims.
+ 
+#### ✨ Key Features:
+
+- 🎧 **[Listen to Top Reciters](https://www.quranbookk.com/quran/audio)** – High-quality audio recitations from world-renowned Qaris  
+- 🎥 **[Watch Quran Videos](https://www.quranbookk.com/quran/video)** – Inspirational Quranic recitation and learning videos
+- 🔍 **[Advanced Quran Search](https://www.quranbookk.com/search-quran)** – Find verses, words, and topics from the Holy Quran in seconds
+- 🌍 **[Read Quran Top Translations](https://www.quranbookk.com/quran/translations)** – Multiple language support with leading Quran translations  
+- 🕋 **[Qibla Direction Finder](https://www.quranbookk.com/qibla-finder)** – Accurate Kaaba direction from anywhere in the world
+- 🕋 **[Worldwide Qibla Directions](https://www.quranbookk.com/qibla-finder/worldwide)** – Accurate Kaaba direction from any country, state, or city of the world    
+- 🕰️ **[Islamic Prayer Times](https://www.quranbookk.com/prayer-times)** – Updated Salah timings based on your current location
+- 🕰️ **[Worldwide Islamic Prayer Times](https://www.quranbookk.com/prayer-times/worldwide)** – Updated Salah timings for any country, state, or city of the world
+- 📿 **[Digital Tasbih Counter](https://www.quranbookk.com/digital-tasbih)** – Count your Dhikr anytime, anywhere  
+- 📅 **[Islamic Hijri Calendar](https://www.quranbookk.com/islamic-calendar)** – Get accurate Hijri calendar with sunset based location aware calculations
+- 🤖 **[Ask Islam AI](https://www.quranbookk.com/ask-islam-ai)** – AI-powered assistant for Islamic questions, Quran, and Hadiths
+- 🤖 **[Ask Quran AI](https://www.quranbookk.com/ask-quran-ai)** – AI-powered assistant for answering about Islamic history, Quran, and Hadiths
+- 🤖 **[Ask Hadith AI](https://www.quranbookk.com/ask-hadith-ai)** – AI-powered assistant for Hadiths
+- 📚 **[Authentic Hadith Collections](https://www.quranbookk.com/hadiths/hadiths-sources)** – Sahih Bukhari, Sahih Muslim, and more  
+- 🕯️ **[Top Quranic Duas](https://www.quranbookk.com/quran/ayats)** – Beautiful supplications with translations  
+- 🔍 **[Advanced Quran Search](https://www.farhan7reza.com/search-quran)** – Search verses, words, topics in seconds  
+- 📖 **[Explore Surahs](https://www.quranbookk.com/quran/surahs)** – Full Quran access with audio, video, and translations
+- 📖 **[Explore Juzs (Paras)](https://www.quranbookk.com/quran/juzs)** – Full Quran access with audio, video, and translations
+- 🌙 **[99 Names of Allah](https://www.quranbookk.com/99-names-of-allah)** – Explore the beautiful names of Allah with Arabic text, audio, meanings, and transliteration
+
+#### ✨ Also From QuranBookk Team:
+
+- ⚡ **[Internet Speed Test](https://www.farhan7reza.com/internet-speed-test)** – Test your internet speed for free! Check download, upload speeds & ping instantly
+- 🎮 **[AI TicTacToe Game](https://www.farhan7reza.com/tic-tac-toe-game)** – Play online with smart AI bots or challenge your friends
+- 📅 **[Menstrual Cycle Tracker](https://www.farhan7reza.com/menstrual-cycle-tracker)** – Free period tracker & ovulation calculator with menstrual cycle calendar
+- 💖 **[Fertility Tracker](https://www.farhan7reza.com/fertility-tracker)** – Track your ovulation & fertile window for free online
+- 👶 **[Pregnancy Due Date Finder](https://www.farhan7reza.com/pregnancy-due-date-finder)** – Calculate your baby's due date & pregnancy week instantly
+- 💕 **[Love Compatibility Finder](https://www.farhan7reza.com/love-compatibility-finder)** – Free relationship match test to check love compatibility
+- 🍀 **[Daily Luck Finder](https://www.farhan7reza.com/luck-finder)** – Discover your daily luck score with free numerology calculator
+- ⭐ **[Zodiac Sign Finder](https://www.farhan7reza.com/zodiac-sign-finder)** – Find your Rashi & horoscope sign by birth date
+- 🎂 **[Age Calculator](https://www.farhan7reza.com/age-finder)** – Calculate your exact age in years, months & days online
+- 📊 **[Date Analyzer](https://www.farhan7reza.com/date-analyzer)** – Free astrology & numerology date analysis online
+- ⏳ **[Dates Duration Calculator](https://www.farhan7reza.com/dates-difference-calculator)** – Calculate days, months & years between two dates
 
 ### ✨ Key Features:
 
@@ -565,7 +605,7 @@ Best Practices:
 
 ## Powered By [QuranBookk](https://quranbookk.com)
 
-This package is actively maintained by [QuranBookk.com](https://quranbookk.com) - The Ultimate Free Digital Quran Platform offering:
+This package is actively maintained by [QuranBookk.com](https://quranbookk.com) - The Ultimate Free Digital Quran and Islam Platform offering:
 - Zero ads, 100% free forever
 - No registration required
 - Mobile-optimized experience
